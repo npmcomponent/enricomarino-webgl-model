@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-model",
+  "description": "WebGL Model component",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "model"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
